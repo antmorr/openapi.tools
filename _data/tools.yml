@@ -847,6 +847,16 @@
   v2: false
   v3: true
 
+- name: Linx
+  category: server
+  language: 
+  link: https://linx.software
+  github: https://github.com/linx-software/
+  description: Low-code application backend development platform
+  v2: true
+  v3: true
+
+
 - name: yii2-app-api
   category:
     - server
